@@ -4,7 +4,7 @@ Full-Fledged Generalist advocating DevSecOps within Digital Transformations whil
 
 ## 🚀 About Me
 
-I am an experienced Chartered Engineer (CEng), Chartered IT Professional (CITP), Solutions Architect, and Consultant with over two decades of experience in software delivery. I specialise in cloud-native architecture and [CNCF technologies](https://landscape.cncf.io) such as [Kubernetes](https://kubernetes.io), [Linkerd](https://linkerd.io), and [Prometheus](https://prometheus.io). My expertise allows me to build resilient, scalable, and portable applications that can run across multi-cloud platforms.
+I am an experienced Chartered Engineer (CEng), Chartered IT Professional (CITP), Solutions Architect, and Consultant with over two decades of experience in software delivery. I specialise in Cloud(-Native) architecture and [CNCF technologies](https://landscape.cncf.io) such as [Kubernetes](https://kubernetes.io), [Linkerd](https://linkerd.io), and [Prometheus](https://prometheus.io). My expertise allows me to build resilient, scalable, and portable applications that can run across multi-cloud platforms.
 
 I am proficient in Agile workflows and processes, possess excellent communication skills, and have a critical eye for detail. I can convey knowledge and understanding to all levels of an organisation to deliver successful outcomes. 
 

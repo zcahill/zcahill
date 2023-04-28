@@ -22,11 +22,3 @@ If you are looking for an experienced, skilled, and innovative Solutions Archite
 
 - LinkedIn: [https://www.linkedin.com/in/zanecahill](https://www.linkedin.com/in/zanecahill)
 - Twitter: [@ZaneVCahill](https://twitter.com/ZaneVCahill)
-
-## 🌟 GitHub Stats
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=zcahill&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🏆 GitHub Trophies
-
-[![Your GitHub trophies](https://github-profile-trophy.vercel.app/?username=zcahill&column=7)](https://github.com/ryo-ma/github-profile-trophy)
